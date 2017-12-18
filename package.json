@@ -1,0 +1,14 @@
+{
+  "name": "parcel-plugin-php",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.2.0",
+    "php-parser": "^2.1.0",
+    "php-reflection": "^2.3.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.9.2"
+  }
+}

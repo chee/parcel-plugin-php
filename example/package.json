@@ -1,0 +1,10 @@
+{
+  "name": "parcel-plugin-php-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chee <chee@snake.dog>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-plugin-php": "1.0.0"
+  }
+}
